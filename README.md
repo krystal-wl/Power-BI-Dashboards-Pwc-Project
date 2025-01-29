@@ -1,18 +1,28 @@
 # Power-BI-Dashboards-Pwc-Project
-Power BI Dashboards
+
+This project consists of 3 tasks:
 
 ## Background
 * **Task 1**: Create Call Centre Dashboard - visualizing customer and agent behaviour.
 * **Task 2**: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
 * **Task 3**: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
-## Data Source
 
 ## KPIs Definitions
 
+## Task 1
+
+### Background
+* **Problem**: The manager at PhoneNow (a big telecom company) is seeking transparency and insight into the Call Center dataset to gain an accurate overview of long-term customer and agent behavior trends.
+* **Objective**: The purpose of this analysis is to create a dashboard in Power BI for Call Center Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics.
+* **Data Source**: Call center datasets
 
 ## Task 2 
-### 1) Customer Risk Analysis:
+
+### Background
+
+
+### 1) Customer Risk Analysis
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/5eae76fa-dfa1-4433-bfb1-3a917b3d3b8d" />
 
 **Findings:**
@@ -26,9 +36,9 @@ Power BI Dashboards
   * Month‐to‐month plans have a significantly higher churn rate (~40%), whereas one‐year and two‐year plans have markedly lower churn (~20% or below).
   * This suggests that longer contracts help retain customers.
 * **Year of Contract**:
-  * Churn is highest among new customers for under one year subscription. After the first year, churn steadily decreases over years 2–5.
+  * Churn is highest among new customers for under one-year subscription. After the first year, churn steadily decreases over years 2–5.
   * The Monthly Charges are quite high for first‐year subscribers, then decreases through the middle‐contract years (2–4), and rises again at the 5+ or 6+ years.
-* **Payment Methods & Churn**: Customers paying by electronic check shows the highest churn(about 40%). In contrast, churn with other payment methods (credit card, bank transfer, and mailed checks) is noticeably lower, often below 25%.
+* **Payment Methods & Churn**: Customers paying by electronic check shows the highest churn(about 40%). In contrast, churn with other payment methods (credit card, bank transfer, and mailed checks) is lower, often below 25%.
 
 Overall, the data suggests that Fiber‐optic, month‐to‐month customers paying by electronic check are at highest risk of canceling. Longer‐term contracts and other payment methods are associated with lower churn.
 
