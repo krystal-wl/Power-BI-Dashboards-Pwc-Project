@@ -1,4 +1,4 @@
-# Power-BI-Dashboards-Pwc-Project
+# Power-BI-Dashboards-PwC-Project
 
 This project consists of 3 tasks:
 * **Task 1**: Create Call Centre Dashboard - visualizing customer and agent behaviour.
