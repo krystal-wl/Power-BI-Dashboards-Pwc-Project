@@ -40,6 +40,7 @@ To improve performance, reducing call abandonment should be a priority, possibly
 * Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk
 * We  have done customer analysis with Excel: it has always ended in a dead-end
 * We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+* **Data Source**: Churn datasets
 
 ### 1) Customer Risk Analysis
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/352a9395-3d7f-4692-8346-1fb8a94ffa11" />
@@ -80,10 +81,12 @@ Overall, the data suggests that Fiber‐optic, month‐to‐month customers payi
 ## Task 3 
 
 ### Background
-* Problem: Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. 
-* Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
-* Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
-
+* **Problem**: Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. 
+* **Objective**:
+  * Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
+  * Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+* **Data Source**: Diversity & Inclusion datasets
+  
 ### KPIs
 * Number of men
 * Number of women
