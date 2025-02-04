@@ -99,8 +99,7 @@ Overall, the data suggests that Fiber‐optic, month‐to‐month customers payi
 ### Diversity & Inclusion Dashboard
 
 <img width="1047" alt="image" src="https://github.com/user-attachments/assets/9d03c7d2-6f52-4678-ac88-a44534985ef8" />
-<img width="1047" alt="image" src="https://github.com/user-attachments/assets/59aab4a6-feab-4b47-8334-f7abcc16a7c2" />
-
+<img width="1047" alt="image" src="https://github.com/user-attachments/assets/40ac33c4-66fb-4c3e-9943-eadcfe32870c" />
 
 **Findings:**
 * Gender Imbalance in Leadership: The proportion of female executives remains low, with only 15.79% in FY21. Despite hiring efforts (41% female hires), promotions to executive roles are still dominated by men.
